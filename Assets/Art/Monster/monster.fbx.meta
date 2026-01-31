@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 96470555d0efb1043bc4c25e402604dc
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: manbat_low_poly_Dientes_BaseColor
+    second: {fileID: 2800000, guid: 48c775876635afe4ba3ef9d949a092d3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: manbat_low_poly_Dientes_Emissive
+    second: {fileID: 2800000, guid: 0e0a53f2bc059c64f8d53334d9519925, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: manbat_low_poly_Dientes_Metallic
+    second: {fileID: 2800000, guid: 0581e45e6a7206d46b87c0b6ce2a4cf7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: manbat_low_poly_Dientes_Normal
+    second: {fileID: 2800000, guid: 44eda6231d7eee14180143ef51900856, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: manbat_low_poly_Dientes_Roughness
+    second: {fileID: 2800000, guid: 4c5e23d87477bb84099dc048e00c0dde, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: manbat_low_poly_Encias_BaseColor
+    second: {fileID: 2800000, guid: 24a5576a27b3f32459abb1a299527a4a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: manbat_low_poly_Encias_Emissive
+    second: {fileID: 2800000, guid: bac7eac28ebfdea4e81fcddeccd2bb8c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: manbat_low_poly_Encias_Metallic
+    second: {fileID: 2800000, guid: 23f47bf62405e5a4882bb6d0a89a511c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: manbat_low_poly_Encias_Normal
+    second: {fileID: 2800000, guid: 0b3632ddb9766b640b8a0e21c9c53d5c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: manbat_low_poly_Encias_Roughness
+    second: {fileID: 2800000, guid: 33a05df36b8f46d478b75937b6b542bf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: manbat_low_poly_Lengua_BaseColor
+    second: {fileID: 2800000, guid: 247e29d950eb8a64aa703accd002519b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: manbat_low_poly_Lengua_Emissive
+    second: {fileID: 2800000, guid: b0eca9efbbafd58409a032f6ce7ee446, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: manbat_low_poly_Lengua_Metallic
+    second: {fileID: 2800000, guid: 90c743136dae74a4eb47c78948338bf0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: manbat_low_poly_Lengua_Normal
+    second: {fileID: 2800000, guid: 35e6abd0faa8e6e4b9bfca942a3606d0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: manbat_low_poly_Ojos_BaseColor
+    second: {fileID: 2800000, guid: def1af9a3baa0f34fae919e6a930dbf3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: manbat_low_poly_Ojos_Emissive
+    second: {fileID: 2800000, guid: 558cd61a66028ed4aa12188088dc114b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: manbat_low_poly_Ojos_Metallic
+    second: {fileID: 2800000, guid: ee54e74e2efc39b42a5e8091ea3cae3e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: manbat_low_poly_Ojos_Normal
+    second: {fileID: 2800000, guid: 53908f403fb731543831527f3792697e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: manbat_low_poly_Ojos_Roughness
+    second: {fileID: 2800000, guid: bba9516efaa600746812163db77ded0e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: manbat_low_poly_Piel_BaseColor
+    second: {fileID: 2800000, guid: 2df6a2ef2ef46be409efa553755a3dcf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: manbat_low_poly_Piel_Emissive
+    second: {fileID: 2800000, guid: 88092b5ec3c8a0646afb02c5d9a7e66b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: manbat_low_poly_Piel_Metallic
+    second: {fileID: 2800000, guid: 2796e019cfef5c147b2a53f953972324, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: manbat_low_poly_Piel_Normal
+    second: {fileID: 2800000, guid: f627c0c3971e27b4794e925c2feed376, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: manbat_low_poly_Piel_Roughness
+    second: {fileID: 2800000, guid: cc4bce34d154a0c4c9655f4e8977ae18, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.2
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.002
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
