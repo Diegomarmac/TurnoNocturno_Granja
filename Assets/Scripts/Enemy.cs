@@ -1,3 +1,4 @@
+using System;
 using StarterAssets;
 using UnityEngine;
 using UnityEngine.AI;
@@ -33,6 +34,14 @@ public class Enemy : MonoBehaviour
         else
         {
             animator.SetBool("Running", false);
+        }
+    }
+
+    private void OnAnimatorMove()
+    {
+        if (animator.GetBool("Running"))
+        {
+            agent.speed = (animator.deltaPosition / Time.deltaTime).magnitude;
         }
     }
 }
