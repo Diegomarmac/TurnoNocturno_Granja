@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2259b45d2ae8c745a1eabfaa5624762, type: 3}
   m_Name: LucesEdificos
   m_EditorClassIdentifier: 
-  tiempoEncendido: 10
-  maxTime: 10
+  tiempoEncendido: 6.912009
+  maxTime: 11
   tiempoCarga: 0.3
