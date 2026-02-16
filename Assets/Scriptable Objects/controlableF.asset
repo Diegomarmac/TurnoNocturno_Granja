@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: controlableF
   m_EditorClassIdentifier: 
   tiempoEncendido: 5
-  maxTime: 5
+  maxTime: 3
   tiempoCarga: 0.5
