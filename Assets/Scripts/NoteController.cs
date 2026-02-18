@@ -1,4 +1,3 @@
-using System;
 using UnityEngine;
 using StarterAssets;
 using TMPro;
