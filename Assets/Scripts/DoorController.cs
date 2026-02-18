@@ -13,8 +13,8 @@ public class DoorController : MonoBehaviour
   
   private DoorInteractable doorInteractable;
   private KeyCollectable keyCollectable;
-
-
+  
+  
   private void Awake()
   {
     switch (_itemType)
