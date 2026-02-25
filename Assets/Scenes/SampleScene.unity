@@ -14527,7 +14527,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timeToWait: 1
-  timeToRead: 3
+  timeToRead: 4
   HintObject: {fileID: 835497267}
 --- !u!4 &681906715
 Transform:

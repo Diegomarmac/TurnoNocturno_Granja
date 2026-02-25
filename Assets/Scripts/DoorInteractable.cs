@@ -28,6 +28,7 @@ public class DoorInteractable : MonoBehaviour
     private Quaternion targetRot;
     
     private AudioSource audioSource;
+    
     [SerializeField] private AudioClip openSound;
     [SerializeField] private AudioClip closeSound;
     [SerializeField] private AudioClip LockedSound;
@@ -35,6 +36,7 @@ public class DoorInteractable : MonoBehaviour
     private void Start()
     {
         targetRot = Quaternion.Euler(0f, closeAngle, 0f);
+        audioSource = GetComponent<AudioSource>();
     }
 
     private void Update()
